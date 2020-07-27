@@ -18,7 +18,7 @@
 
 |字段|类型|必填|备注|赋值|
 |---|---|---|---|---|  
-| appkey | string | Y | 	appkey | www.vnil.cn 开发者后台获取|
+| appkey | string | Y | 	appkey | https://www.vnil.cn 开发者后台获取|
 | url | string | Y | 要解析的资源地址信息 |例如：http://xhslink.com/f0aZc|
 
 **返回结果：**  
@@ -135,7 +135,7 @@ Python实例代码:
 
 |字段|类型|必填|备注|赋值|
 |---|---|---|---|---| 
-| appkey | string | Y | appkey |www.vnil.cn 开发者后台获取|
+| appkey | string | Y | appkey | https://www.vnil.cn 开发者后台获取|
 
 **返回结果：**  
 
